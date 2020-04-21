@@ -66,6 +66,7 @@ end
     song.artist_name = song_list.artist_name
     song
 end
+end
   def self.destroy_all
     self.all.clear
 end
