@@ -69,3 +69,4 @@ end
   def self.destroy_all
     self.all.destroy
 end
+end
